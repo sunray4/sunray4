@@ -1,4 +1,10 @@
-## Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+
+👋🏻 Hey I'm Joanna, a CS student @ University of Waterloo!!
+
+🌱 I’m interested in system design and cloud computing, and I'm currently learning aws. 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **sunray4/sunray4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
