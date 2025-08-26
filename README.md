@@ -4,7 +4,7 @@
 
 🌱 I’m interested in system design, cloud computing, ML/AI and all things tech
 
-🔭 I’m currently working on becoming an open source contributor and collaborating with other developers!!
+🔭 I’m currently working on contributing to open source and collaborating with other developers!!
 
 ☁️ Feel free to reach out if you're interested in connecting :))
 
