@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=madushadhanushka.madushadhanushka)
+<img src="https://komarev.com/ghpvc/?username=sunray4&color=blue" alt="watching_count" />
 
 👋🏻 Hey I'm Joanna, a CS student @ University of Waterloo!!
 
