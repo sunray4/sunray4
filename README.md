@@ -2,7 +2,7 @@
 
 👋🏻 Hey I'm Joanna, a CS student @ University of Waterloo!!
 
-🌱 I’m interested in system design, cloud computing, ML/AI and all things tech
+🌱 I’m interested in system design, human-computer interaction, AI/ML and all things tech
 
 🔭 I’m currently working on contributing to open source and collaborating with other developers!!
 
