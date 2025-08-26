@@ -2,9 +2,11 @@
 
 👋🏻 Hey I'm Joanna, a CS student @ University of Waterloo!!
 
-🌱 I’m interested in system design and cloud computing, and I'm currently learning aws. 
+🌱 I’m interested in system design, cloud computing, ML/AI and all things tech
 
-☁️ Feel free to reach out if you're interested in connecting!!
+🔭 I’m currently working on becoming an open source contributor and collaborating with other developers!!
+
+☁️ Feel free to reach out if you're interested in connecting :))
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunray4&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark" alt="ovi" />
 
