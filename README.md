@@ -8,7 +8,7 @@
 
 ☁️ Feel free to reach out if you're interested in connecting :))
 
-![sunray4's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunray4&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sunray4&show_icons=true&layout=compact&locale=en&theme=chartreuse-dark" alt="ovi" />
 
 <!--
 **sunray4/sunray4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
